@@ -32,9 +32,7 @@
     max-width: 100%;
     margin-top: 10%;
 }
-.move {
 
-}
 .image1 {
     padding-top: 9%;
     margin-bottom: 3%;
@@ -50,9 +48,13 @@
 }
 .pace {
     font-size: cal(1vh + 1vw + .5vmin);
+    text-align: center;
 }
 .card {
     margin: 10px 0;
     position: relative;
     overflow: hidden;
+}
+.hide {
+    display: none;
 }
