@@ -12,3 +12,47 @@
     padding: 80px;
     margin-bottom: 50px;
 }
+#mouse_click {
+    padding-top: 22px;
+    margin-top: 10%;
+    padding-bottom: 30px;
+    animation: bounce 2s infinite;
+}
+#main-page {
+    padding-top: 14%;
+    margin-bottom: 9%;
+}
+#contact {
+    padding-top: 100px;
+    margin-bottom: 50px;
+    background-image: url('../images/c_image.jpg');
+    background-size: cover;
+    background-position: cover;
+    width: 100%;
+    max-width: 100%;
+    margin-top: 10%;
+}
+.move {
+
+}
+.image1 {
+    padding-top: 9%;
+    margin-bottom: 3%;
+}
+#about {
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: black;
+}
+.shift {
+    text-align: center;
+    color: black;
+}
+.pace {
+    font-size: cal(1vh + 1vw + .5vmin);
+}
+.card {
+    margin: 10px 0;
+    position: relative;
+    overflow: hidden;
+}
