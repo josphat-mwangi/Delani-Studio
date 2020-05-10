@@ -31,6 +31,7 @@
     width: 100%;
     max-width: 100%;
     margin-top: 10%;
+    color: white;
 }
 
 .image1 {
@@ -57,4 +58,34 @@
 }
 .hide {
     display: none;
+}
+.space {
+    color: white;
+}
+.form-cont {
+    text-align: center;
+    position: relative;
+    width: 700px;
+    max-width: 100%;
+    left: 50%;
+    transform: translate(-50%);
+    background-color: transparent;
+}
+.footer {
+    color: black;
+}
+.ptag {
+    padding: 5% 0;
+    color: white;
+    background-color: rgba(0, 0, 0, 0.301);
+    padding: 50px 10px;
+    font-weight: 100%;
+    padding-top: 30px;
+    border: 4px solid whitesmoke;
+    font-size: 1.1em;
+    line-height: 90%;
+    margin: 20% 5%;
+    overflow: hidden;
+    letter-spacing: 2px;
+    font-family: 'Merienda', cursive; 
 }
