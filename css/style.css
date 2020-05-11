@@ -109,3 +109,7 @@
 .card-deck {
     padding: 1% 4%;
 }
+@import url('https://fonts.googleapis.com/css2?family=Fredericka+the+Great&display=swap');
+body {
+    font-family: 'Fredericka the Great', cursive;
+}
